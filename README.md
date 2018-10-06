@@ -2,8 +2,6 @@
 
 [<b>welcome<br>to<br>the<br>bae</b>](https://s9a.github.io/bae/)
 
-## [`bae.css`](bae.css)
-
 ### palette
 
 - <b>`.bae-cool`</b> is `#415` on `#bae`
@@ -33,3 +31,7 @@ Remember to style interactive elements with visual affordance. Link underline et
   <em>hella</em> cool
 </aside>
 ```
+
+## setup
+
+- see [<b>releases</b>](../../releases)
