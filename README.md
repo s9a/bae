@@ -4,8 +4,8 @@
 
 ### palette
 
-- <b>`.bae-cool`</b> is `#415` on `#bae`
-- <b>`.bae-warm`</b> is `#bae` on `#415`
+- <b>`.bae-cool`</b> is `#bae` on `#415`
+- <b>`.bae-warm`</b> is `#415` on `#bae`
 
 ### behavior
 
