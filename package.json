@@ -1,0 +1,32 @@
+{
+  "name": "@s9a/bae",
+  "version": "0.0.0",
+  "description": "SF bae CSS color palette",
+  "main": "bae.css",
+  "license": "ISC",
+  "homepage": "https://s9a.github.io/bae/",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s9a/bae.git"
+  },
+  "bugs": {
+    "url": "https://github.com/s9a/bae/issues"
+  },
+  "keywords": [
+    "color palette",
+    "color scheme",
+    "color system",
+    "palette",
+    "purple",
+    "simple",
+    "colors",
+    "color",
+    "mood",
+    "love",
+    "vibe",
+    "css"
+  ]
+}
