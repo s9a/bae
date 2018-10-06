@@ -1,0 +1,20 @@
+.bae-clean:not(.bae-unclean),
+.bae-clean :not(.bae-unclean) {
+  background: transparent;
+  color: inherit;
+}
+
+.bae-flat:not(.bae-unflat),
+.bae-flat :not(.bae-unflat) {
+  border-color: transparent;
+}
+
+.bae-warm {
+  color: #415 !important;
+  background: #bae !important;
+}
+
+.bae-cool {
+  color: #bae !important;
+  background: #415 !important;
+}
