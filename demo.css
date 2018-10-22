@@ -59,8 +59,6 @@ code { font: inherit }
 .free-right { margin-right: auto }
 .free-bottom { margin-bottom: auto }
 
-.indent { text-indent: 1ch }
-
 .txt-left { text-align: left }
 .txt-center { text-align: center }
 .txt-right { text-align: right }
