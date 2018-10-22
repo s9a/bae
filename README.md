@@ -1,6 +1,6 @@
 # bae
 
-[<b>welcome<br>to<br>the<br>bae</b>](https://s9a.github.io/bae/)
+[<b>welcome<br>to<br>our<br>bae</b>](https://s9a.github.io/bae/)
 
 ### palette
 
