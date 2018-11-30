@@ -38,3 +38,23 @@
   color: #4ea !important;
   background: #707 !important;
 }
+
+.bae-wind {
+  color: #707 !important;
+  background: #bae4ea !important;
+}
+
+.bae-wave {
+  color: #bae4ea !important;
+  background: #707 !important;
+}
+
+.bae-air {
+  color: #415 !important;
+  background: #bae4ea !important;
+}
+
+.bae-fog {
+  color: #bae4ea !important;
+  background: #415 !important;
+}
