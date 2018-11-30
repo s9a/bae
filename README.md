@@ -36,4 +36,4 @@ Remember to style interactive elements with visual affordance. Link underline et
 
 ## setup
 
-- see [<b>releases</b>](../../releases)
+- [Releases have setup deets](../../releases)
