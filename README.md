@@ -10,6 +10,8 @@
 - <b>`.bae-dusk`</b> is `#bae` on `#510`
 - <b>`.bae-vine`</b> is `#707` on `#4ea`
 - <b>`.bae-vein`</b> is `#4ea` on `#707`
+- <b>`.bae-swag`</b> is `#925` on `#bff`
+- <b>`.bae-swab`</b> is `#bff` on `#925`
 
 ### behavior
 
