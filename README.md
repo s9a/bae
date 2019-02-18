@@ -12,6 +12,8 @@
 - <b>`.bae-vein`</b> is `#4ea` on `#707`
 - <b>`.bae-swag`</b> is `#925` on `#bff`
 - <b>`.bae-swab`</b> is `#bff` on `#925`
+- <b>`.bae-gold`</b> is `#707` on `gold`
+- <b>`.bae-rush`</b> is `gold` on `#707`
 
 ### behavior
 
