@@ -14,6 +14,8 @@
 - <b>`.bae-swab`</b> is `#bff` on `#925`
 - <b>`.bae-gold`</b> is `#707` on `gold`
 - <b>`.bae-rush`</b> is `gold` on `#707`
+- <b>`.bae-wash`</b> is `#415` on `#bae4ea`
+- <b>`.bae-wish`</b> is `#bae4ea` on `#415`
 
 ### behavior
 
