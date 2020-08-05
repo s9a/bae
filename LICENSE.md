@@ -1,4 +1,4 @@
-[0BSD License](https://choosealicense.com/licenses/0bsd/)
+[0BSD](https://choosealicense.com/licenses/0bsd/) license
 
 &copy; [<b>s9a</b>](https://github.com/s9a)
 
