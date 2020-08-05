@@ -1,6 +1,6 @@
-&copy; [<b>s9a</b>](https://github.com/s9a)
-
 [0BSD License](https://choosealicense.com/licenses/0bsd/)
+
+&copy; [<b>s9a</b>](https://github.com/s9a)
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted.
