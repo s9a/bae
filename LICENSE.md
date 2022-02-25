@@ -1,4 +1,4 @@
-### The Universal Permissive License `UPL-1.0` <br> [&copy; s9a](https://github.com/s9a)
+### The Universal Permissive License <br> `UPL-1.0` <br> [&copy; s9a](https://github.com/s9a)
 
 ```
 Subject to the condition set forth below, permission is hereby granted to any
