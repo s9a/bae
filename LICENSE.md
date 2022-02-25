@@ -1,6 +1,6 @@
-[&copy; s9a](https://github.com/s9a)
-
 The Universal Permissive License (UPL), Version 1.0
+
+[&copy; s9a](https://github.com/s9a)
 
 Subject to the condition set forth below, permission is hereby granted to any
 person obtaining a copy of this software, associated documentation and/or data
