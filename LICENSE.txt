@@ -1,4 +1,4 @@
-(C) s9a
+Copyright (c) s9a
 
 The Universal Permissive License (UPL), Version 1.0
 
